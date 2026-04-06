@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Md Towfik Omer</h1>
-<h3 align="center">💻 Tech Enthusiast | C++ Programmer | Problem Solver</h3>
+# Md Towfik Omer 👋
+Problem Solver |  Building Real-Time Systems  | Full-Stack Developer
 
-- 🔭 I’m currently working on **Improving my Data Structures & Algorithms (DSA) skills in C++ Exploring new technologies independently**
-
-- 🌱 I’m currently learning **C++ & Python for problem-solving and development Data Structures & Algorithms (DSA) Git & GitHub for version control**
-
-- 👯 I’m looking to collaborate on **Open-source projects related to C++ and problem-solving**
-
-- 🤝 I’m looking for help with **Improving coding efficiency and DSA implementation**
-
-- 💬 Ask me about **C++, Python basics, problem-solving approaches, and productivity in learning**
-
-- 📫 How to reach me **mdtowfikomer@gmail.com**
-
-- ⚡ Fun fact **I enjoy optimizing workflows and discovering efficient ways to learn!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md towfike omer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md towfike omer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdtowfik073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtowfik073" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MdTowfikomer/MdTowfikomer/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Engineering Ethos
+I am an undergraduate developer bridging the gap between university theory and high-performance implementation. I don't just use libraries; I deconstruct them. My engineering process is defined by building systems, breaking their internals, and documenting the recovery because mastering the "Why" is the only path to truly understanding the "How."
+
+---
+
+## 🏗️ Technical Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,nodejs,express,react,mongodb,nextjs,tailwind,git,github,vscode,windows,postman,figma" />
+  </a>
+</p>
+
+---
+
+## 🔍 Technical Deep Dives
+
+### 🎥 [FocusRoom](https://github.com/MdTowfikomer/FocusRoom) | WebRTC & Socket.io
+**The Problem:** Video conferencing feels like magic until the signaling fails.
+- **The Work:** Deconstructed VC architectures to build custom signaling servers and handle media stream negotiation manually.
+- **The Outcome:** Learn P2P connectivity and real-time state management in high-latency environments.
+
+### 🤖 [AskYourPDF](https://github.com/MdTowfikomer/AskYourPDF) | RAG & Vector Internals
+**The Problem:** AI shouldn't be a black-box API call.
+- **The Work:** Manually built the RAG pipeline: document ingestion, semantic chunking, and embedding retrieval from a vector database.
+- **The Outcome:** Gained absolute control over LLM context injection and similarity search mechanics.
+
+### 🏠 [Heavenly](https://github.com/MdTowfikomer/Heavenly) | Full-Stack Orchestration
+**The Problem:** Managing state and stateful auth across the stack is where most apps break.
+- **The Work:** Built a complete MERN system focused on the friction points of frontend-backend communication and secure data persistence.
+- **The Outcome:** Implemented robust **Session-based Authentication** and optimized CRUD operations for reliable data cycles.
+
+---
+
+## 📈 Activity & Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdTowfikomer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdTowfikomer&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Build
+[**LinkedIn**](https://linkedin.com/in/md-towfike-omer) | [**LeetCode**](https://leetcode.com/mdtowfik073) | [**Email**](mailto:mdtowfikomer@gmail.com)
+
+---
+<p align="center">
+  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+</p>
+
