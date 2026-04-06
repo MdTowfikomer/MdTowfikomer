@@ -49,7 +49,7 @@ I am an undergraduate developer bridging the gap between university theory and h
 ---
 
 ## 📫 Let's Build
-[**LinkedIn**](https://linkedin.com/in/md-towfike-omer) | [**LeetCode**](https://leetcode.com/mdtowfik073) | [**Email**](mailto:mdtowfikomer@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/mdtowfikomer) | [**LeetCode**](https://leetcode.com/mdtowfik073) | [**Email**](mailto:mdtowfikomer@gmail.com)
 
 ---
 <p align="center">
